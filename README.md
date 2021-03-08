@@ -182,7 +182,7 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
 
 ## Stage 1 (level 10)
   * Malevolent Dryad
-    * +4 Melee Attack
+    * +4 Melee Attack/Defence
     * +5 Anti-Infantry
   * Malevolent Tree Kin
     * +5 Melee Attack
@@ -196,7 +196,7 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
     * +8% Missile Resistance 
 ## Stage 2 (level 20)
   * Malevolent Dryad
-    * +8 Melee Attack
+    * +8 Melee Attack/Defence
     * +10 Anti-Infantry
     * -80% Non-AP Weapon Strength
     * +450% AP Weapon Strength
@@ -213,4 +213,40 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
     * +8 Melee Attack
     * +12% Weapon Strength
   * Great Hawk
-    * +8% Missile Resistance 
+    * +3 Melee Defence
+    * +16% Missile Resistance 
+## Stage 3 (level 30)
+  * Malevolent Dryad
+    * +15 Melee Attack/Defence
+    * +20 Anti-Infantry
+    * -80% Non-AP Weapon Strength
+    * +450% AP Weapon Strength
+    * Enable "Unyielding Devotion"
+        - Passive Ability
+        - Stops entities from dying while Morale > 50%
+    * Enable "Glamourous Disguise"
+        - Active Ability, 45s Duration, 60s CD
+        - Cannot be activated if already in melee
+        - Upon activation, all enemies in 80 range will suffer from -5 Melee Defence and -25% Weapon Strength
+  * Malevolent Tree Kin
+    * +20 Melee Attack
+    * +10 Anti-Large Bonus
+    * -60% Non-AP Weapon Strength
+    * +150% AP Weapon Strength
+    * Enable "Unyielding Devotion"
+        - Passive Ability
+        - Stops entities from dying while Morale > 50% 
+  * Giant Spider
+    * +30% Physical Resistance
+    * +10 Melee Defence
+    * +20% Speed
+  * Giant Wolves
+    * +16 Melee Attack
+    * +25% Weapon Strength
+    * Enable "Hunting Call"
+        - Active Ability, 75s Duration, 120s CD
+        - When activated, nearby allies gain +30% Speed, +10 Melee Attack, +15% Weapon Strength
+  * Great Hawk
+    * +6 Melee Defence
+    * +35% Missile Resistance 
+    * Enable Contact Effect: "Blinded"
