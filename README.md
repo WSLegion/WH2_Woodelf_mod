@@ -109,8 +109,7 @@ Please note that Durthu's effects DOES NOT APPLY TO MALICIOUS FOREST SPIRITS, ma
       * Enable "Merciless Spirits"
           - Bound Ability, 1 charge per battle
           - When activated, the unit will gain +25% Weapon Strength and +10 Melee Attack
-          - Activation will trigger an explosion, this explosion will not affect friendly units
-          - Enemies hit by the explosion will suffer from -5 Melee Defence, -40% Speed and -20% Magic Resistance
+          - Enemies within 60 range will suffer from -5 Melee Defence, -40% Speed and -20% Magic Resistance
   * Tree Kin
       * Enable "Wrath of the Forest"
           - Bound Ability, 1 charge per battle
@@ -184,6 +183,7 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
   * Malevolent Dryad
     * +4 Melee Attack/Defence
     * +5 Anti-Infantry
+    * +6 Morale
   * Malevolent Tree Kin
     * +5 Melee Attack
   * Giant Spider
@@ -193,11 +193,12 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
     * +4 Melee Attack
     * +6% Weapon Strength
   * Great Hawk
-    * +8% Missile Resistance 
+    * +8% Physical Resistance 
 ## Stage 2 (level 20)
   * Malevolent Dryad
     * +8 Melee Attack/Defence
     * +10 Anti-Infantry
+    * +12 Morale
     * -80% Non-AP Weapon Strength
     * +450% AP Weapon Strength
   * Malevolent Tree Kin
@@ -214,11 +215,12 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
     * +12% Weapon Strength
   * Great Hawk
     * +3 Melee Defence
-    * +16% Missile Resistance 
+    * +15% Physical Resistance 
 ## Stage 3 (level 30)
   * Malevolent Dryad
     * +15 Melee Attack/Defence
     * +20 Anti-Infantry
+    * +25 Morale
     * -80% Non-AP Weapon Strength
     * +450% AP Weapon Strength
     * Enable "Unyielding Devotion"
@@ -248,5 +250,5 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
         - When activated, nearby allies gain +30% Speed, +10 Melee Attack, +15% Weapon Strength
   * Great Hawk
     * +6 Melee Defence
-    * +35% Missile Resistance 
+    * +30% Physical Resistance 
     * Enable Contact Effect: "Blinded"
