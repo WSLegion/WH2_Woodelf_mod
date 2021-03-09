@@ -36,7 +36,7 @@ Controlling a full Cav stack is already lots of work, I chose to give them more 
       * +50% AP-Weapon Strength
       * +22 Charge Bonus
       * +12 Anti-Large Bonus
-      * Enable "Rampage" Contact Effect
+      * Enable "Discouraged" Contact Effect
 
 
 # Durthu
