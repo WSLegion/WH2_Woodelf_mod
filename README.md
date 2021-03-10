@@ -177,7 +177,7 @@ Probably the most powerful army from this mod, able to walk out of most battles 
 
 
 # Drycha
-Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin, 2 units of Malevolent Treeman and 3 units of Giant Spider, Giant Wolves and Great Hawks will be available to recruit from the tier 3 verion of the Forest Spirit Building Chain. Please note that her traits ONLY APPLY TO MALEVOLENT FOREST SPIRITS.
+Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin, 2 units of Malevolent Treeman and 3 units of Giant Spider, Giant Wolves and Great Hawks will be available to recruit from Nimbus-Shrouded Copse (the tier 4 verion of the Forest Spirit Building Chain). Please note that her traits ONLY APPLY TO MALEVOLENT FOREST SPIRITS.
 
 ## Stage 1 (level 10)
   * Malevolent Dryad
