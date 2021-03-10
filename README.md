@@ -40,7 +40,7 @@ I will just put it here: I can't micro cav units and probably was not using them
 
 
 # Durthu
-Please note that Durthu's effects DOES NOT APPLY TO MALEVOLENT FOREST SPIRITS, make sure you are recruiting normal forest spirits for him. After unlocking the 3rd Stage, you will have to choose between 2 options: <br>
+Please note that Durthu's effects is supposed to apply to both malevolent and normal variants, but I have only tested them for the normal forest spirits. If you notice some of them not applying, please leave a comment. After unlocking the 3rd Stage, you will have to choose between 2 options: <br>
 1. An army that has both Forest Spirits and Elves, this army focuses more on survival and ambushing with Bladesingers (and potentially Dryads).
 2. only consists of Forest Spirits and Creatures, this army focuses more on damage dealing and rushing at enemies.
 
