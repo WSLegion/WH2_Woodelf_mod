@@ -193,8 +193,8 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
     * +4 Melee Attack
     * +6% Weapon Strength
   * Great Hawk
-    * +5 Melee Defence
-    * +8% Physical Resistance 
+    * +8% Physical Resistance
+    * +5% Speed
 ## Stage 2 (level 20)
   * Malevolent Dryad
     * +8 Melee Attack/Defence
@@ -215,8 +215,9 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
     * +8 Melee Attack
     * +12% Weapon Strength
   * Great Hawk
-    * +9 Melee Defence
-    * +15% Physical Resistance 
+    * +15% Physical Resistance
+    * +5 Melee Defence
+    * +10% Speed
 ## Stage 3 (level 30)
   * Malevolent Dryad
     * +15 Melee Attack/Defence
@@ -249,6 +250,6 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
         - Active Ability, 75s Duration, 120s CD
         - When activated, nearby allies gain +30% Speed, +10 Melee Attack, +15% Weapon Strength
   * Great Hawk
-    * +18 Melee Defence
-    * +30% Physical Resistance 
-    * Enable Contact Effect: "Blinded"
+    * +30% Physical Resistance
+    * +10 Melee Defence
+    * +20% Speed
