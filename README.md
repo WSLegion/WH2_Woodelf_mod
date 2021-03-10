@@ -1,5 +1,5 @@
 # Orion
-Controlling a full Cav stack is already lots of work, I chose to give them more passive stat buff and abilities/ Contact Effects. While being a viable late-game army, they can still easily get killed if you are not careful enough. Also the siege capability of this army is very limited.
+I will just put it here: I can't micro cav units and probably was not using them to their full strength, players who are better with cavalry will probably find this stack overpowered (Or maybe not because melee cavs are bad). Make sure to support your damage dealing units with shielded Wild Riders, the "Rattled" contact effect does a great job keeping your other units from dying.
 
 ## Stage 1 (level 10)
    * Great Stag Knight:
@@ -40,7 +40,7 @@ Controlling a full Cav stack is already lots of work, I chose to give them more 
 
 
 # Durthu
-Please note that Durthu's effects DOES NOT APPLY TO MALICIOUS FOREST SPIRITS, make sure you are recruiting normal forest spirits for him. After unlocking the 3rd Stage, you will have to choose between 2 options: <br>
+Please note that Durthu's effects DOES NOT APPLY TO MALEVOLENT FOREST SPIRITS, make sure you are recruiting normal forest spirits for him. After unlocking the 3rd Stage, you will have to choose between 2 options: <br>
 1. An army that has both Forest Spirits and Elves, this army focuses more on survival and ambushing with Bladesingers (and potentially Dryads).
 2. only consists of Forest Spirits and Creatures, this army focuses more on damage dealing and rushing at enemies.
 
@@ -123,7 +123,7 @@ Please note that Durthu's effects DOES NOT APPLY TO MALICIOUS FOREST SPIRITS, ma
       * +15% Weapon Strength 
       * Enable "Vanguard Deployment", "Woodman" and "Hide(Forest)"
       * Enable "Whirlwind"
-          - Bound Ability, 1 charge per battle
+          - Bound Ability, 2 charge per battle
           - Summons a (Non-static) damaging vortex, affect enemies and allies.
 
 
@@ -228,7 +228,6 @@ Upon unlocking the 1. Stage of her trait, 5 units of Malevolent Dryad, Tree Kin,
         - Stops entities from dying while Morale > 50%
     * Enable "Glamourous Disguise"
         - Active Ability, 45s Duration, 60s CD
-        - Cannot be activated if already in melee
         - Upon activation, all enemies in 80 range will suffer from -5 Melee Defence and -25% Weapon Strength
   * Malevolent Tree Kin
     * +20 Melee Attack
